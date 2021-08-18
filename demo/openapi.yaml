@@ -6,8 +6,6 @@ info:
   description: |
     API Doc for Jasonkaranik's Network API
 
-    <SecurityDefinitions />
-
   version: 1.0.0
   title: Jasonkaranik's Network API
   termsOfService: ''
